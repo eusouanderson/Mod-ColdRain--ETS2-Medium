@@ -1,0 +1,14 @@
+B.O.B Cold Rain - Aumenta a quantidade de gotas de chuva (MÉDIO)
+
+Este addon para Cold Rain aumenta o número de gotas de chuva (janelas, para-brisa...). Se você prefere ter visibilidade nas janelas, não use este addon.
+
+Devido às limitações do motor gráfico do jogo, as gotas de chuva serão vistas em maior quantidade nas janelas e não tão perceptíveis no para-brisa; isso não é um problema do mod.
+
+Sem o addon, o Cold Rain tem o valor "drop_count_per_meter: 6000". Neste addon, o valor foi aumentado para "20000".
+
+É necessário ter o Cold Rain instalado para funcionar. Coloque este addon com prioridade alta.
+
+Se desejar mais gotas de chuva no vidro, você pode usar o addon ALTO.
+
+Compatível com versões do jogo 1.50.x (Adaptação [verde] NMODs [normal])
+Compatível com 'Mod opcional' no modo Convoy
